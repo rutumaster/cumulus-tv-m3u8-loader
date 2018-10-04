@@ -3,7 +3,7 @@
 http://provider-url/LIVE/H01/CANAL351/PROFILE03.m3u8?
 #EXTINF:-1, HISTORY
 http://provider-url/LIVE/H01/CANAL353/PROFILE03.m3u8?
-#EXTINF:-1, tvg-country="US" group-title="Entertainment", NAT GEO WILD
+#EXTINF:-1 tvg-country="US" group-title="Entertainment", NAT GEO WILD
 http://provider-url/LIVE/H01/CANAL355/PROFILE03.m3u8?
 #EXTINF:-1 tvg-country="US" group-title="Entertainment" , TLC HD
 http://provider-url/LIVE/H01/CANAL356/PROFILE03.m3u8?
